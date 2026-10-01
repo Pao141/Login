@@ -1,0 +1,15 @@
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\igu\AltaUsuarios.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\igu\EdicionUsuarios.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\igu\LoginInicial.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\igu\PrincipalAdmin.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\igu\PrincipalUser.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\logica\Controladora.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\logica\Rol.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\logica\Usuario.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\Login.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\persistencia\ControladoraPersistencia.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\persistencia\exceptions\PreexistingEntityException.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\persistencia\RolJpaController.java
+C:\Users\Pao\Documents\NetBeansProjects\Login-20250627T215633Z-1-001\Login\src\main\java\com\mycompany\login\persistencia\UsuarioJpaController.java
